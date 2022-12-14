@@ -1,0 +1,180 @@
+
+
+{
+  "filmes": [
+    {
+      "id": 1,
+      "filme": "Viagem à Lua",
+      "sinopse": "O professor Barbenfouillis (Georges Méliès) convence seus colegas a participarem de uma viagem de exploração à Lua. Eles partem em uma nave que aterrissa no olho direito da Lua. Lá eles encontram habitantes hostis que o levam ao seu rei. Os terráqueos conseguem fugir quando descobrem que os inimigos viram fumaça a um simples toque de um guarda-chuva.",
+      "genero": "ficção científica, aventura",
+      "trailler": "https://www.youtube.com/watch?v=5ExV_1qwgsw",
+      "situacao": "Em cartaz",
+      "duracao": "14 min",
+      "rotten": "100%",
+      "indicacao": "Livre",
+      "cartaz": "",
+      "elenco": [
+        {
+          "Georges Méliès": "Professor Barbenfouillis / The Moon",
+          "Bleuette Bernon": "Lady in the Moon (uncredited)",
+          "Victor André": "Astronomer (uncredited)",
+          "Henri Delannoy": "Captain of the Rocket (uncredited)",
+          "Brunnet": "Astronomer (uncredited)"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "filme": "Metrópolis",
+      "sinopse": "Metropolis é um filme alemão de ficção científica lançado em 1927, dirigido pelo cineasta austríaco Fritz Lang. Foi, na época, a mais cara produção até então filmada na Europa, e é considerado, por especialistas, um dos grandes expoentes do expressionismo alemão.",
+      "genero": "ficção científica",
+      "trailler": "https://www.youtube.com/watch?v=gdtZv3XROnc",
+      "situacao": "Pré-venda",
+      "duracao": "148 min",
+      "rotten": "97%",
+      "indicacao": "16 anos",
+      "cartaz": "",
+      "elenco": [
+        {
+          "Rudolf Klein-Rogge": "C.A. Rotwang (inventor)",
+          "Theodor Loos": "Josaphat (assessor de Fredersen)",
+          "Erwin Biswanger": "Georgy (trabalhador nº 11811)",
+          "Fritz Rasp": "Homem Magro (empregado de Fredersen)",
+          "Heinrich Gotho": "Mestre de Cerimônias"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "filme": "Marinheiro Popeye encontra o marujo Simbad",
+      "sinopse": "Os lendários marinheiros Popeye e Sindbad lutam para ver qual é o melhor.",
+      "genero": "Fantasia/Curta-metragem",
+      "trailler": "https://www.youtube.com/watch?v=l9OX7UM_HUU",
+      "situacao": "Em cartaz",
+      "duracao": "16 min",
+      "rotten": "",
+      "indicacao": "Livre",
+      "cartaz": ""
+    },
+    {
+      "id": 4,
+      "filme": "",
+      "sinopse": "",
+      "genero": "",
+      "trailler": "",
+      "situacao": "",
+      "duracao": "",
+      "rotten": "",
+      "indicacao": "",
+      "cartaz": ""
+    }
+  ],
+  "usuarios": [
+    {
+      "id": 1,
+      "email": "diego@gmail.com",
+      "senha": "123456789",
+      "telefone": "21967554477",
+      "cpf": "123456789-12"
+    },
+    {
+      "id": 2,
+      "email": "camila@gmail.com",
+      "senha": "987654321",
+      "telefone": "21999999999",
+      "cpf": "987654321-98"
+    },
+    {
+      "id": 3,
+      "email": "hudson@gmail.com",
+      "senha": "abcdef1234",
+      "telefone": "21888888888",
+      "cpf": "111234567-89"
+    },
+    {
+      "id": 4,
+      "email": "flavia@gmail.com",
+      "senha": "abcdef5678",
+      "telefone": "21777777777",
+      "cpf": "111222345-67"
+    }
+  ],
+
+  "blog": [
+    {
+      "id": 1,
+      "titulo": "",
+      "conteudo": "",
+      "descricao": "",
+      "capa": "",
+      "author": "",
+      "date": "",
+      "video": ""
+    },
+    {
+      "id": 2,
+      "titulo": "",
+      "conteudo": "",
+      "descricao": "",
+      "capa": "",
+      "author": "",
+      "date": "",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "titulo": "",
+      "conteudo": "",
+      "descricao": "",
+      "capa": "",
+      "author": "",
+      "date": "",
+      "video": ""
+    },
+    {
+      "id": 4,
+      "titulo": "",
+      "conteudo": "",
+      "descricao": "",
+      "capa": "",
+      "author": "",
+      "date": "",
+      "video": ""
+    }
+  ],
+
+  "enderecos": [
+    {
+      "id": 1,
+      "nome": "Ilha Plaza Shopping",
+      "endereco": "Av. Maestro Paulo e Silva, 400 - Freguesia (Ilha do Governador)",
+      "cidade": " Rio de Janeiro",
+      "estado": "RJ",
+      "maps": "https://goo.gl/maps/V1Ly1Sww6ZeHyNke8"
+    },
+    {
+      "id": 2,
+      "nome": "Carioca Shopping",
+      "endereco": "Av. Vicente de Carvalho, 909 - Vila da Penha",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "maps": "https://goo.gl/maps/HjQFP5Ct2Tsf8D9m6"
+    },
+    {
+      "id": 3,
+      "nome": "Madureira Shopping",
+      "endereco": "Estr. do Portela, 222 - Madureira",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "maps": "https://goo.gl/maps/WaT6iTtYGwyDeNUk6"
+    },
+    {
+      "id": 4,
+      "nome": "Shopping Tijuca",
+      "endereco": "Av. Maracanã, 987 - Tijuca",
+      "cidade": "Rio de Janeiro",
+      "estado": "RJ",
+      "maps": "https://goo.gl/maps/3K5efYnAzxokUVfaA"
+    }
+  ]
+}
