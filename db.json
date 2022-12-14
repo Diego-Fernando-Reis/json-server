@@ -52,7 +52,7 @@
       "trailler": "https://www.youtube.com/watch?v=l9OX7UM_HUU",
       "situacao": "Em cartaz",
       "duracao": "16 min",
-      "rotten": "",
+      "rotten": "95%",
       "indicacao": "Livre",
       "cartaz": ""
     },
@@ -108,8 +108,7 @@
       "descricao": "",
       "capa": "",
       "author": "",
-      "date": "",
-      "video": ""
+      "date": ""
     },
     {
       "id": 2,
@@ -118,8 +117,7 @@
       "descricao": "",
       "capa": "",
       "author": "",
-      "date": "",
-      "video": ""
+      "date": ""
     },
     {
       "id": 3,
@@ -128,8 +126,7 @@
       "descricao": "",
       "capa": "",
       "author": "",
-      "date": "",
-      "video": ""
+      "date": ""
     },
     {
       "id": 4,
@@ -138,8 +135,7 @@
       "descricao": "",
       "capa": "",
       "author": "",
-      "date": "",
-      "video": ""
+      "date": ""
     }
   ],
 
