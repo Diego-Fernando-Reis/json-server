@@ -12,7 +12,7 @@
       "duracao": "14 min",
       "rotten": "100%",
       "indicacao": "Livre",
-      "cartaz": "https://github.com/Diego-Fernando-Reis/json-server/blob/6261faa20e35db7fb97b59c12d91648bf5bc557d/img/viagem%20a%20lua.jpg",
+      "cartaz": "https://raw.githubusercontent.com/Diego-Fernando-Reis/json-server/master/img/viagem%20a%20lua.jpg",
       "elenco": [
         {
           "Georges Méliès": "Professor Barbenfouillis / The Moon",
@@ -33,7 +33,7 @@
       "duracao": "148 min",
       "rotten": "97%",
       "indicacao": "16 anos",
-      "cartaz": "https://github.com/Diego-Fernando-Reis/json-server/blob/6261faa20e35db7fb97b59c12d91648bf5bc557d/img/metropolis.jpg",
+      "cartaz": "https://raw.githubusercontent.com/Diego-Fernando-Reis/json-server/master/img/metropolis.jpg",
       "elenco": [
         {
           "Rudolf Klein-Rogge": "C.A. Rotwang (inventor)",
@@ -54,7 +54,7 @@
       "duracao": "16 min",
       "rotten": "95%",
       "indicacao": "Livre",
-      "cartaz": "https://github.com/Diego-Fernando-Reis/json-server/blob/6261faa20e35db7fb97b59c12d91648bf5bc557d/img/popeye.jpg"
+      "cartaz": "https://raw.githubusercontent.com/Diego-Fernando-Reis/json-server/master/img/popeye.jpg"
     },
     {
       "id": 4,
@@ -66,7 +66,7 @@
       "duracao": "71 min",
       "rotten": "92%",
       "indicacao": "12 anos",
-      "cartaz": "https://github.com/Diego-Fernando-Reis/json-server/blob/6261faa20e35db7fb97b59c12d91648bf5bc557d/img/dr%20caligari.jpg"
+      "cartaz": "https://raw.githubusercontent.com/Diego-Fernando-Reis/json-server/master/img/dr%20caligari.jpg"
     }
   ],
   "usuarios": [
