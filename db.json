@@ -1,5 +1,3 @@
-
-
 {
   "filmes": [
     {
@@ -21,36 +19,7 @@
           "Henri Delannoy": "Captain of the Rocket (uncredited)",
           "Brunnet": "Astronomer (uncredited)"
         }
-      ],
-      "date":[
-        {
-          "sala1":[{
-            "23/01": ["13:00", "14:00", "17:00"],
-            "24/01": ["14:00", "15:00", "18:00"],
-            "25/01": ["13:00", "14:00", "17:00"],
-            "26/01": ["14:00", "15:00", "18:00"],
-            "27/01": ["18:00"]
-
-          }],
-          "sala2":[{
-            "23/01": ["13:30", "14:30", "17:30"],
-            "24/01": ["14:30", "15:30", "18:30"],
-            "25/01": ["13:30", "14:30", "17:30"],
-            "26/01": ["14:30", "15:30", "18:30"],
-            "27/01": ["18:30"]
-
-          }],
-          "sala3":[{
-            "23/01": ["13:00", "14:00", "17:00"],
-            "24/01": ["14:00", "15:00", "18:00"],
-            "25/01": ["13:00", "14:00", "17:00"],
-            "26/01": ["14:00", "15:00", "18:00"],
-            "27/01": ["18:00"]
-
-          }]
-        }
       ]
-
     },
     {
       "id": 2,
@@ -71,34 +40,7 @@
           "Fritz Rasp": "Homem Magro (empregado de Fredersen)",
           "Heinrich Gotho": "Mestre de Cerimônias"
         }
-      ],
-      "date":[
-        {
-          "sala1":[{
-            "23/01": ["15:00", "16:00", "19:00"],
-            "24/01": ["16:00", "17:00", "20:00"],
-            "25/01": ["15:00", "16:00", "19:00"],
-            "26/01": ["16:00", "17:00", "20:00"],
-            "27/01": ["20:00"]
-
-          }],
-          "sala2":[{
-            "23/01": ["15:30", "16:30", "18:30"],
-            "24/01": ["16:30", "17:30", "20:30"],
-            "25/01": ["15:30", "17:30", "19:30"],
-            "26/01": ["16:30", "17:30", "20:30"],
-            "27/01": ["20:30"]
-
-          }],
-          "sala3":[{
-            "23/01": ["15:00", "16:00", "19:00"],
-            "24/01": ["16:00", "17:00", "20:00"],
-            "25/01": ["15:00", "16:00", "19:00"],
-            "26/01": ["16:00", "17:00", "20:00"],
-            "27/01": ["20:00"]
-
-          }]
-        }]
+      ]
     },
     {
       "id": 3,
@@ -110,35 +52,7 @@
       "duracao": "16 min",
       "rotten": "95%",
       "indicacao": "Livre",
-      "cartaz": "https://raw.githubusercontent.com/Diego-Fernando-Reis/json-server/master/img/popeye.jpg",
-      "date":[
-        {
-          "sala1":[{
-            "23/01": ["17:00", "18:00", "21:00"],
-            "24/01": ["18:00", "19:00", "22:00"],
-            "25/01": ["17:00", "18:00", "21:00"],
-            "26/01": ["18:00", "19:00", "22:00"],
-            "27/01": ["22:00"]
-
-          }],
-          "sala2":[{
-            "23/01": ["17:30", "18:30", "21:30"],
-            "24/01": ["18:30", "19:30", "22:30"],
-            "25/01": ["17:30", "18:30", "21:30"],
-            "26/01": ["18:30", "19:30", "22:30"],
-            "27/01": ["22:30"]
-
-          }],
-          "sala3":[{
-            "23/01": ["17:00", "18:00", "21:00"],
-            "24/01": ["18:00", "19:00", "22:00"],
-            "25/01": ["17:00", "18:00", "21:00"],
-            "26/01": ["18:00", "19:00", "22:00"],
-            "27/01": ["22:00"]
-
-          }]
-        }
-      ]
+      "cartaz": "https://raw.githubusercontent.com/Diego-Fernando-Reis/json-server/master/img/popeye.jpg"
     },
     {
       "id": 4,
@@ -150,35 +64,7 @@
       "duracao": "71 min",
       "rotten": "92%",
       "indicacao": "12 anos",
-      "cartaz": "https://raw.githubusercontent.com/Diego-Fernando-Reis/json-server/master/img/dr%20caligari.jpg",
-      "date":[
-        {
-          "sala1":[{
-            "23/01": ["19:00", "20:00", "23:00"],
-            "24/01": ["20:00", "21:00", "00:00"],
-            "25/01": ["19:00", "20:00", "23:00"],
-            "26/01": ["21:00", "22:00", "00:00"],
-            "27/01": ["00:00"]
-
-          }],
-          "sala2":[{
-            "23/01": ["19:30", "20:30", "23:30"],
-            "24/01": ["20:30", "21:30", "00:30"],
-            "25/01": ["19:30", "20:30", "23:30"],
-            "26/01": ["20:30", "21:30", "00:30"],
-            "27/01": ["00:30"]
-
-          }],
-          "sala3":[{
-            "23/01": ["19:00", "20:00", "23:00"],
-            "24/01": ["20:00", "21:00", "00:00"],
-            "25/01": ["19:00", "20:00", "23:00"],
-            "26/01": ["20:00", "21:00", "00:00"],
-            "27/01": ["00:00"]
-
-          }]
-        }
-      ]
+      "cartaz": "https://raw.githubusercontent.com/Diego-Fernando-Reis/json-server/master/img/dr%20caligari.jpg"
     }
   ],
   "usuarios": [
@@ -286,6 +172,233 @@
       "cidade": "Rio de Janeiro",
       "estado": "RJ",
       "maps": "https://goo.gl/maps/3K5efYnAzxokUVfaA"
+    }
+  ],
+  "salas":[
+    {
+      "id": 1,
+      "23/01":[
+        {
+          "12:00": "O Gabinete do Dr. Caligari",
+          "13:00": "Viagem à Lua",
+          "14:00": "Viagem à Lua",
+          "15:00": "Metrópolis",
+          "16:00": "Metrópolis",
+          "17:00": "Viagem à Lua",
+          "18:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "19:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "20:00": "Metrópolis",
+          "21:00": "O Gabinete do Dr. Caligari",
+          "22:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "23:00": "O Gabinete do Dr. Caligari"
+        }
+      ],
+      "24/01":[
+        {
+          "12:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "13:00": "O Gabinete do Dr. Caligari",
+          "14:00": "Viagem à Lua",
+          "15:00": "Viagem à Lua",
+          "16:00": "Metrópolis",
+          "17:00": "Metrópolis",
+          "18:00": "Viagem à Lua",
+          "19:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "20:00": "Metrópolis",
+          "21:00": "O Gabinete do Dr. Caligari",
+          "22:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "23:00": "O Gabinete do Dr. Caligari"
+        }
+      ],
+      "25/01":[
+        {
+          "12:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "13:00": "Viagem à Lua",
+          "14:00": "Viagem à Lua",
+          "15:00": "Metrópolis",
+          "16:00": "Metrópolis",
+          "17:00": "Viagem à Lua",
+          "18:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "19:00": "Metrópolis",
+          "20:00": "O Gabinete do Dr. Caligari",
+          "21:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "22:00": "O Gabinete do Dr. Caligari",
+          "23:00": "O Gabinete do Dr. Caligari"
+        }
+      ],
+      "26/01": [
+        {
+          "12:00": "O Gabinete do Dr. Caligari",
+          "13:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "14:00": "Viagem à Lua",
+          "15:00": "Viagem à Lua",
+          "16:00": "Metrópolis",
+          "17:00": "Metrópolis",
+          "18:00": "Viagem à Lua",
+          "19:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "20:00": "Metrópolis",
+          "21:00": "O Gabinete do Dr. Caligari",
+          "22:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "23:00": "O Gabinete do Dr. Caligari"
+        }
+      ],
+      "27/01": [
+        {
+          "18:00": "Viagem à Lua",
+          "19:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "20:00": "Metrópolis",
+          "21:00": "O Gabinete do Dr. Caligari"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "23/01":[
+        {
+          "12:00": "Viagem à Lua",
+          "13:00": "Viagem à Lua",
+          "14:00": "Metrópolis",
+          "15:00": "Metrópolis",
+          "16:00": "Viagem à Lua",
+          "17:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "18:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "19:00": "Metrópolis",
+          "20:00": "O Gabinete do Dr. Caligari",
+          "21:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "22:00": "O Gabinete do Dr. Caligari",
+          "23:00": "O Gabinete do Dr. Caligari"
+        }
+      ],
+      "24/01":[
+        {
+          "12:00": "O Gabinete do Dr. Caligari",
+          "13:00": "Viagem à Lua",
+          "14:00": "Viagem à Lua",
+          "15:00": "Metrópolis",
+          "16:00": "Metrópolis",
+          "17:00": "Viagem à Lua",
+          "18:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "19:00": "Metrópolis",
+          "20:00": "O Gabinete do Dr. Caligari",
+          "21:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "22:00": "O Gabinete do Dr. Caligari",
+          "23:00": "Marinheiro Popeye encontra o marujo Simbad"
+        }
+      ],
+      "25/01":[
+        {
+          "12:00": "Viagem à Lua",
+          "13:00": "Viagem à Lua",
+          "14:00": "Metrópolis",
+          "15:00": "Metrópolis",
+          "16:00": "Viagem à Lua",
+          "17:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "18:00": "Metrópolis",
+          "19:00": "O Gabinete do Dr. Caligari",
+          "20:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "21:00": "O Gabinete do Dr. Caligari",
+          "22:00": "O Gabinete do Dr. Caligari",
+          "23:00": "Marinheiro Popeye encontra o marujo Simbad"
+        }
+      ],
+      "26/01": [
+        {
+          "12:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "13:00": "Viagem à Lua",
+          "14:00": "Viagem à Lua",
+          "15:00": "Metrópolis",
+          "16:00": "Metrópolis",
+          "17:00": "Viagem à Lua",
+          "18:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "19:00": "Metrópolis",
+          "20:00": "O Gabinete do Dr. Caligari",
+          "21:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "22:00": "O Gabinete do Dr. Caligari",
+          "23:00": "O Gabinete do Dr. Caligari"
+        }
+      ],
+      "27/01": [
+        {
+          "18:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "19:00": "Metrópolis",
+          "20:00": "O Gabinete do Dr. Caligari",
+          "21:00": "Viagem à Lua"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "23/01":[
+        {
+          "12:00": "Viagem à Lua",
+          "13:00": "Metrópolis",
+          "14:00": "Metrópolis",
+          "15:00": "Viagem à Lua",
+          "16:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "17:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "18:00": "Metrópolis",
+          "19:00": "O Gabinete do Dr. Caligari",
+          "20:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "21:00": "O Gabinete do Dr. Caligari",
+          "22:00": "O Gabinete do Dr. Caligari",
+          "23:00": "Viagem à Lua"
+        }
+      ],
+      "24/01":[
+        {
+          "12:00": "Viagem à Lua",
+          "13:00": "Viagem à Lua",
+          "14:00": "Metrópolis",
+          "15:00": "Metrópolis",
+          "16:00": "Viagem à Lua",
+          "17:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "18:00": "Metrópolis",
+          "19:00": "O Gabinete do Dr. Caligari",
+          "20:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "21:00": "O Gabinete do Dr. Caligari",
+          "22:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "23:00": "O Gabinete do Dr. Caligari"
+        }
+      ],
+      "25/01":[
+        {
+          "12:00": "Viagem à Lua",
+          "13:00": "Metrópolis",
+          "14:00": "Metrópolis",
+          "15:00": "Viagem à Lua",
+          "16:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "17:00": "Metrópolis",
+          "18:00": "O Gabinete do Dr. Caligari",
+          "19:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "20:00": "O Gabinete do Dr. Caligari",
+          "21:00": "O Gabinete do Dr. Caligari",
+          "22:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "23:00": "Viagem à Lua"
+        }
+      ],
+      "26/01": [
+        {
+          "12:00": "Viagem à Lua",
+          "13:00": "Viagem à Lua",
+          "14:00": "Metrópolis",
+          "15:00": "Metrópolis",
+          "16:00": "Viagem à Lua",
+          "17:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "18:00": "Metrópolis",
+          "19:00": "O Gabinete do Dr. Caligari",
+          "20:00": "Marinheiro Popeye encontra o marujo Simbad",
+          "21:00": "O Gabinete do Dr. Caligari",
+          "22:00": "O Gabinete do Dr. Caligari",
+          "23:00": "Marinheiro Popeye encontra o marujo Simbad"
+        }
+      ],
+      "27/01": [
+        {
+          "18:00": "Metrópolis",
+          "19:00": "O Gabinete do Dr. Caligari",
+          "20:00": "Viagem à Lua",
+          "21:00": "Marinheiro Popeye encontra o marujo Simbad"
+        }
+      ]
     }
   ]
 }
