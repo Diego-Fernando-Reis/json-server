@@ -177,7 +177,7 @@
   "salas":[
     {
       "id": 1,
-      "23/01":[
+      "segunda":[
         {
           "12:00": "O Gabinete do Dr. Caligari",
           "13:00": "Viagem à Lua",
@@ -193,7 +193,7 @@
           "23:00": "O Gabinete do Dr. Caligari"
         }
       ],
-      "24/01":[
+      "terca":[
         {
           "12:00": "Marinheiro Popeye encontra o marujo Simbad",
           "13:00": "O Gabinete do Dr. Caligari",
@@ -209,7 +209,7 @@
           "23:00": "O Gabinete do Dr. Caligari"
         }
       ],
-      "25/01":[
+      "quarta":[
         {
           "12:00": "Marinheiro Popeye encontra o marujo Simbad",
           "13:00": "Viagem à Lua",
@@ -225,7 +225,7 @@
           "23:00": "O Gabinete do Dr. Caligari"
         }
       ],
-      "26/01": [
+      "quinta": [
         {
           "12:00": "O Gabinete do Dr. Caligari",
           "13:00": "Marinheiro Popeye encontra o marujo Simbad",
@@ -241,7 +241,7 @@
           "23:00": "O Gabinete do Dr. Caligari"
         }
       ],
-      "27/01": [
+      "sexta": [
         {
           "18:00": "Viagem à Lua",
           "19:00": "Marinheiro Popeye encontra o marujo Simbad",
@@ -252,7 +252,7 @@
     },
     {
       "id": 2,
-      "23/01":[
+      "segunda":[
         {
           "12:00": "Viagem à Lua",
           "13:00": "Viagem à Lua",
@@ -268,7 +268,7 @@
           "23:00": "O Gabinete do Dr. Caligari"
         }
       ],
-      "24/01":[
+      "terca":[
         {
           "12:00": "O Gabinete do Dr. Caligari",
           "13:00": "Viagem à Lua",
@@ -284,7 +284,7 @@
           "23:00": "Marinheiro Popeye encontra o marujo Simbad"
         }
       ],
-      "25/01":[
+      "quarta":[
         {
           "12:00": "Viagem à Lua",
           "13:00": "Viagem à Lua",
@@ -300,7 +300,7 @@
           "23:00": "Marinheiro Popeye encontra o marujo Simbad"
         }
       ],
-      "26/01": [
+      "quinta": [
         {
           "12:00": "Marinheiro Popeye encontra o marujo Simbad",
           "13:00": "Viagem à Lua",
@@ -316,7 +316,7 @@
           "23:00": "O Gabinete do Dr. Caligari"
         }
       ],
-      "27/01": [
+      "sexta": [
         {
           "18:00": "Marinheiro Popeye encontra o marujo Simbad",
           "19:00": "Metrópolis",
@@ -327,7 +327,7 @@
     },
     {
       "id": 3,
-      "23/01":[
+      "segunda":[
         {
           "12:00": "Viagem à Lua",
           "13:00": "Metrópolis",
@@ -343,7 +343,7 @@
           "23:00": "Viagem à Lua"
         }
       ],
-      "24/01":[
+      "terca":[
         {
           "12:00": "Viagem à Lua",
           "13:00": "Viagem à Lua",
@@ -359,7 +359,7 @@
           "23:00": "O Gabinete do Dr. Caligari"
         }
       ],
-      "25/01":[
+      "quarta":[
         {
           "12:00": "Viagem à Lua",
           "13:00": "Metrópolis",
@@ -375,7 +375,7 @@
           "23:00": "Viagem à Lua"
         }
       ],
-      "26/01": [
+      "quinta": [
         {
           "12:00": "Viagem à Lua",
           "13:00": "Viagem à Lua",
@@ -391,7 +391,7 @@
           "23:00": "Marinheiro Popeye encontra o marujo Simbad"
         }
       ],
-      "27/01": [
+      "sexta": [
         {
           "18:00": "Metrópolis",
           "19:00": "O Gabinete do Dr. Caligari",
