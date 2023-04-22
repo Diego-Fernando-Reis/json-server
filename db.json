@@ -11,6 +11,7 @@
       "rotten": "100%",
       "indicacao": "Livre",
       "cartaz": "https://www.themoviedb.org/t/p/original/r5Ru9t6KTNl8iXA7BOSBz5nvZIS.jpg",
+      "banner": "https://www.themoviedb.org/t/p/original/jeC1kzwWnZTuXl7xF4E5D70BD8c.jpg",
       "elenco": [
         {
           "Georges Méliès": "Professor Barbenfouillis / The Moon",
@@ -32,6 +33,7 @@
       "rotten": "97%",
       "indicacao": "16 anos",
       "cartaz": "https://www.themoviedb.org/t/p/original/8fKidn88IMXSv63ivv7dJcYeBlz.jpg",
+      "banner": "https://www.themoviedb.org/t/p/original/maEGU1EpSPIXNh02p9fzsUy26Q0.jpg",
       "elenco": [
         {
           "Rudolf Klein-Rogge": "C.A. Rotwang (inventor)",
@@ -52,7 +54,8 @@
       "duracao": "16 min",
       "rotten": "95%",
       "indicacao": "Livre",
-      "cartaz": "https://www.themoviedb.org/t/p/original/kJBoYaiyQ9Zzt2NGYUTvaBh3U5f.jpg"
+      "cartaz": "https://www.themoviedb.org/t/p/original/kJBoYaiyQ9Zzt2NGYUTvaBh3U5f.jpg",
+      "banner": "https://www.themoviedb.org/t/p/original/v72aGYqPcX5kLD1AVzsTXoxfS4d.jpg"
     },
     {
       "id": 4,
@@ -64,7 +67,8 @@
       "duracao": "71 min",
       "rotten": "92%",
       "indicacao": "12 anos",
-      "cartaz": "https://www.themoviedb.org/t/p/original/j09TT0S1crBSYjPu14vgzSSFqFo.jpg"
+      "cartaz": "https://www.themoviedb.org/t/p/original/j09TT0S1crBSYjPu14vgzSSFqFo.jpg",
+      "banner": "https://www.themoviedb.org/t/p/original/k79y1eWbalLE5qr5H9JuXokeuRU.jpg"
     },
     {
       "id": 5,
@@ -76,7 +80,8 @@
       "duracao": "114 min",
       "rotten": "77%",
       "indicacao": "14 anos",
-      "cartaz": "https://www.themoviedb.org/t/p/original/7z6sVZyLX9RVHRn6IkIYiiEEE2x.jpg"
+      "cartaz": "https://www.themoviedb.org/t/p/original/7z6sVZyLX9RVHRn6IkIYiiEEE2x.jpg",
+      "banner": "https://www.themoviedb.org/t/p/original/sO9tGxUx2zHjtfrvNlEVfs94gv5.jpg"
     },
     {
       "id": 6,
@@ -88,7 +93,8 @@
       "duracao": "101 min",
       "rotten": "71%",
       "indicacao": "14 anos",
-      "cartaz": "https://www.themoviedb.org/t/p/original/mvaYpAYj957C2tlq3vVJPSzGJXK.jpg"
+      "cartaz": "https://www.themoviedb.org/t/p/original/mvaYpAYj957C2tlq3vVJPSzGJXK.jpg",
+      "banner": "https://www.themoviedb.org/t/p/original/6FSs7jMimg1PBYdhZtPNQhtKtEc.jpg"
     },
     {
       "id": 7,
@@ -100,7 +106,8 @@
       "duracao": "74 min",
       "rotten": "79%",
       "indicacao": "Livre",
-      "cartaz": "https://www.themoviedb.org/t/p/original/r5Ygix81ZCBqp10US0A1d2OvrWP.jpg"
+      "cartaz": "https://www.themoviedb.org/t/p/original/r5Ygix81ZCBqp10US0A1d2OvrWP.jpg",
+      "banner": "https://www.themoviedb.org/t/p/original/mGEZdjpa5U4TGcc9omfI0Lg3LQk.jpg"
     },
     {
       "id": 8,
@@ -112,7 +119,8 @@
       "duracao": "89 min",
       "rotten": "77%",
       "indicacao": "12 anos",
-      "cartaz": "https://www.themoviedb.org/t/p/original/cmzDlsauTUuETCTgSARVl8tipU4.jpg"
+      "cartaz": "https://www.themoviedb.org/t/p/original/cmzDlsauTUuETCTgSARVl8tipU4.jpg",
+      "banner": "https://www.themoviedb.org/t/p/original/agVijwJZjI3n1SEo3c4i8T0wIwn.jpg"
     },
     {
       "id": 9,
@@ -124,7 +132,8 @@
       "duracao": "115 min",
       "rotten": "71%",
       "indicacao": "16 anos",
-      "cartaz": "https://www.themoviedb.org/t/p/original/iUAq0UYHglCsnHVbBLcJvZ6KQN9.jpg"
+      "cartaz": "https://www.themoviedb.org/t/p/original/iUAq0UYHglCsnHVbBLcJvZ6KQN9.jpg",
+      "banner": "https://www.themoviedb.org/t/p/original/AkwZpRO5uk5VvrEe52LVn87VT67.jpg"
     }
   ],
   "usuarios": [
