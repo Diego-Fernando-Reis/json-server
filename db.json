@@ -10,7 +10,7 @@
       "duracao": "14 min",
       "rotten": "100%",
       "indicacao": "Livre",
-      "cartaz": "https://raw.githubusercontent.com/Diego-Fernando-Reis/json-server/master/img/viagem%20a%20lua.jpg",
+      "cartaz": "https://www.themoviedb.org/t/p/original/r5Ru9t6KTNl8iXA7BOSBz5nvZIS.jpg",
       "elenco": [
         {
           "Georges Méliès": "Professor Barbenfouillis / The Moon",
@@ -31,7 +31,7 @@
       "duracao": "148 min",
       "rotten": "97%",
       "indicacao": "16 anos",
-      "cartaz": "https://raw.githubusercontent.com/Diego-Fernando-Reis/json-server/master/img/metropolis.jpg",
+      "cartaz": "https://www.themoviedb.org/t/p/original/8fKidn88IMXSv63ivv7dJcYeBlz.jpg",
       "elenco": [
         {
           "Rudolf Klein-Rogge": "C.A. Rotwang (inventor)",
@@ -52,7 +52,7 @@
       "duracao": "16 min",
       "rotten": "95%",
       "indicacao": "Livre",
-      "cartaz": "https://raw.githubusercontent.com/Diego-Fernando-Reis/json-server/master/img/popeye.jpg"
+      "cartaz": "https://www.themoviedb.org/t/p/original/kJBoYaiyQ9Zzt2NGYUTvaBh3U5f.jpg"
     },
     {
       "id": 4,
@@ -64,7 +64,67 @@
       "duracao": "71 min",
       "rotten": "92%",
       "indicacao": "12 anos",
-      "cartaz": "https://raw.githubusercontent.com/Diego-Fernando-Reis/json-server/master/img/dr%20caligari.jpg"
+      "cartaz": "https://www.themoviedb.org/t/p/original/j09TT0S1crBSYjPu14vgzSSFqFo.jpg"
+    },
+    {
+      "id": 5,
+      "filme": "Charada",
+      "sinopse": "Em Paris a americana Regina Lambert (Audrey Hepburn), que recentemente ficou viúva, tenta entender que tipo de vida o marido levava e onde podem estar escondidos os US$ 250 mil que muitos acreditam estar com ela.",
+      "genero": "Comédia/Mistério/Romance",
+      "trailler": "https://pluto.tv/pt/on-demand/movies/riddle-br-2013-1-1?utm_medium=deeplink&utm_source=justwatch",
+      "situacao": "Em Cartaz",
+      "duracao": "114 min",
+      "rotten": "77%",
+      "indicacao": "14 anos",
+      "cartaz": "https://www.themoviedb.org/t/p/original/7z6sVZyLX9RVHRn6IkIYiiEEE2x.jpg"
+    },
+    {
+      "id": 6,
+      "filme": "O Fantasma da Ópera",
+      "sinopse": "Um compositor grotescamente desfigurado conhecido como o 'Fantasma' assombra a casa de ópera de Paris, onde, apaixonado, ajuda secretamente Christine Daae a ser uma diva da ópera. Após atraí-la para seu covil subterrâneo, o Fantasma declara seu amor por ela. Mas Christine ama Raoul de Chagny e planeja fugir com ele depois de sua próxima apresentação. Quando o Fantasma descobre, ele rapta Christine, provocando a ira de Raoul - e uma horda de parisienses raivosos. O filme foi relançado com som, em 1929, usando discos de som da Vitaphone/Western Electric.",
+      "genero": "Drama/Terror",
+      "trailler": "https://www.youtube.com/watch?v=jI3tckvFBZk",
+      "situacao": "Em Cartaz",
+      "duracao": "101 min",
+      "rotten": "71%",
+      "indicacao": "14 anos",
+      "cartaz": "https://www.themoviedb.org/t/p/original/mvaYpAYj957C2tlq3vVJPSzGJXK.jpg"
+    },
+    {
+      "id": 7,
+      "filme": "O Homem-mosca",
+      "sinopse": "Harold tenta a vida na cidade grande antes de se casar com o grande amor de sua vida. Porém ele só consegue ser um mero vendedor. Quando a garota decide ir até a cidade ao seu encontro, ele faz de tudo para fazê-la pensar que é um bem sucedido gerente.",
+      "genero": "Comédia/Romance/Thriller",
+      "trailler": "https://www.youtube.com/watch?v=0bd91uh4GIo",
+      "situacao": "Em Cartaz",
+      "duracao": "74 min",
+      "rotten": "79%",
+      "indicacao": "Livre",
+      "cartaz": "https://www.themoviedb.org/t/p/original/r5Ygix81ZCBqp10US0A1d2OvrWP.jpg"
+    },
+    {
+      "id": 8,
+      "filme": "Nosferatu",
+      "sinopse": "Hutter (Gustav von Wangenheim), agente imobiliário, viaja até os Montes Cárpatos para vender um castelo no Mar Báltico cujo proprietário é o excêntrico conde Graf Orlock (Max Schreck), que na verdade é um milenar vampiro que, buscando poder, se muda para Bremen, Alemanha, espalhando o terror na região. Curiosamente quem pode reverter esta situação é Ellen (Greta Schröder), a esposa de Hutter, pois Orlock está atraído por ela.",
+      "genero": "Fantasia/Terror",
+      "trailler": "https://pluto.tv/pt/on-demand/movies/nosferatu-br-1921-1-1?utm_medium=deeplink&utm_source=justwatch",
+      "situacao": "Em Cartaz",
+      "duracao": "89 min",
+      "rotten": "77%",
+      "indicacao": "12 anos",
+      "cartaz": "https://www.themoviedb.org/t/p/original/cmzDlsauTUuETCTgSARVl8tipU4.jpg"
+    },
+    {
+      "id": 9,
+      "filme": "O Tempo Não Apaga",
+      "sinopse": "Um homem se reencontra com sua amiga de infância e seu marido, que acreditam conhecer a verdade sobre a morte de sua rica tia anos antes. Em 1928, a jovem herdeira Martha Ivers, envolvida em eventos fatais, não fugiu com seu amigo Sam Masterson. Anos mais tarde, Sam retorna para reencontrar Martha, o verdadeiro poder por trás da cidade de Iverstown, e ela se casou com o 'bom menino' Walter O'Neil, agora procurador do distrito. No início, Sam está mais interessado na deslocada loira Toni Marachek do que em seus amigos de infância, mas eles o atraem para uma teia complicada de tramas e objetivos cruzados.",
+      "genero": "Drama/Thriller",
+      "trailler": "https://www.netmovies.com.br/media/movies/127001/o-tempo-nao-apaga",
+      "situacao": "Em Cartaz",
+      "duracao": "115 min",
+      "rotten": "71%",
+      "indicacao": "16 anos",
+      "cartaz": "https://www.themoviedb.org/t/p/original/iUAq0UYHglCsnHVbBLcJvZ6KQN9.jpg"
     }
   ],
   "usuarios": [
